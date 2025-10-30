@@ -3,7 +3,7 @@ import json
 import hashlib
 from typing import Any, Optional
 from datetime import timedelta
-
+ 
 class CacheService:
     """Redis cache service for search results"""
     
